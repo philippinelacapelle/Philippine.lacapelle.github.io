@@ -1,0 +1,177 @@
+body { background: whitesmoke; text-align: center; }
+
+
+
+h1 { color: blue; font-family: 'Caveat', cursive; }
+
+h2{
+  color: black;
+  font-family: 'Caveat', cursive; 
+
+}
+
+p{
+  font-family: arial;
+}
+
+h3{ text-align: left;
+  }
+
+ul{
+  text-align: center;
+}
+
+li{text-align: center;
+}
+
+h3{ color: purple;
+  font-size: 22px;
+  text-align: center;
+  font-family: 'Epilogue', sans-serif;
+ }
+
+h4{
+  text-align: center;
+  color: purple;
+  font-size: 20px;
+  font-family: 'Epilogue', sans-serif;
+}
+
+h5{
+  color: purple;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Epilogue', sans-serif;
+  margin-bottom: 30px;
+}
+
+
+h6{
+  font-size: 20px;
+  color: purple;
+  font-family: 'Epilogue', sans-serif;
+}
+
+h7{
+  font-size: 20px;
+   color: purple;
+  font-family: 'Epilogue', sans-serif;
+  text-align: left;
+}
+
+
+a{ color: beige; }
+
+.avatar {border-radius: 100%; 
+     width: 250px;
+     height: 250px;
+     object-fit: cover;
+     border: 10px solid black;
+     box-shadow: 10px 10px 10px grey ;
+
+}
+
+.imageprem {
+  border-radius: 15px;
+}
+
+.imagedeux{
+  border-radius:15px;
+}
+
+.imagetr{
+  border-radius:15px;
+}
+
+.vid{
+  margin-top: 50px
+}
+
+.cadros {
+  border: 4px dashed purple;
+  margin: 100px  auto;
+  padding: 50px;
+  width: 700px;
+
+  }
+
+.drapeau {
+  
+  height: 300px;
+  width: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.blue {
+  background: blue;
+  height: 200px;
+  width: 100px;
+}
+
+.white {
+  background: white;
+  height: 200px;
+  width: 100px;
+}
+
+.red {
+  background: red;
+  height: 200px;
+  width: 100px;
+}
+
+
+
+.my-navbar{
+  background: #e4fbff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bop{
+  border-radius: 100%;
+  width: 200px;
+}
+
+.menu{
+  display: flex;
+  align-items: space-between;
+  justify-content: space-between;
+  padding: 50px
+}
+
+
+
+.item{
+  margin: 10px 30px;
+  display: flex-end;
+}
+
+.line-transparent {
+  background: black;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.line-light {
+  height: 5px;
+  width: 34%;
+  background: blue;
+}
+.line-medium {
+  height: 5px;
+  width: 33%;
+  background: white;
+}
+.line-hard {
+  height: 5px;
+  width: 33%;
+  background: blue;
+}
+
+  iframe {margin}
